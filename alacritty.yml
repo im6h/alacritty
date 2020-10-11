@@ -1,0 +1,25 @@
+env:
+  TERM: xterm-256color
+dimensions: 
+  columns: 120
+  lines: 60
+
+dpi:
+  x: 90.0
+  y: 90.0
+draw_bold_text_with_bright_colors: true
+
+font:
+  normal:
+    family: IBM Plex Mono Medium 
+    style: Medium
+
+  bold:
+    family: Jetbrains Mono
+    style: Bold
+
+  italic:
+    family: Jetbrains Mono 
+    style: Italic
+
+  size: 14.0
