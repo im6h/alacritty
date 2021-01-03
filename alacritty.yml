@@ -3,29 +3,29 @@ env:
 
 window:
   dimensions:
-    columns: 80
-    lines: 24
+    columns: 135
+    lines: 45
 
   padding:
     x: 2
     y: 2
 
   dpi:
-    x: 90.0
-    y: 90.0
+    x: 100.0
+    y: 100.0
 draw_bold_text_with_bright_colors: true
 
 font:
   normal:
-    family: IBM Plex Mono Medium
+    family: JetbrainsMono Nerd Font
     style: Medium
 
   bold:
-    family: Jetbrains Mono
-    style: Bold
+    family: JetbrainsMono Nerd Font
+    style: Medium
 
   italic:
-    family: IBM Plex Mono ExtraLight
-    style: Italic
+    family: JetbrainsMono Nerd Font Regular
+    style: Medium
 
   size: 14.0
